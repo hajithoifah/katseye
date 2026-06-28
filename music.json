@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "song_001",
+      "title": "Touch",
+      "artist": "Katseye",
+      "audio_url": "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/music/touch.mp3",
+      "bpm": 110,
+      "duration": "03:15"
+    },
+    {
+      "id": "song_002",
+      "title": "Debut Single (Instrumental Beat)",
+      "artist": "Katseye",
+      "audio_url": "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/music/debut_beat.mp3",
+      "bpm": 128,
+      "duration": "02:45"
+    }
+  ]
+}
