@@ -4,11 +4,11 @@
     "require_ump_gdpr": true
   },
   "ad_units": {
-    "app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
-    "app_open": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-    "banner": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-    "interstitial": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-    "native": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-    "rewarded": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy"
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "app_open": "ca-app-pub-3940256099942544/9257395921",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
   }
 }
