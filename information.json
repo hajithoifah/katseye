@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "story_001",
+      "title": "Debut Epik Katseye di Kancah Global",
+      "summary": "Perjalanan luar biasa dari program survival hingga debut resmi.",
+      "content": "Katseye terbentuk dari program survival global... (isi artikel panjang di sini)",
+      "author": "Fanbase Admin",
+      "date_published": "2026-06-28",
+      "cover_image_url": "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/images/story_001.webp"
+    },
+    {
+      "id": "story_002",
+      "title": "Profil Member: Daniela, Lara, Manon, dkk",
+      "summary": "Kenali lebih dekat pesona dan bakat masing-masing member.",
+      "content": "Setiap member membawa warna unik... (isi artikel panjang di sini)",
+      "author": "Fanbase Admin",
+      "date_published": "2026-06-28",
+      "cover_image_url": "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/images/story_002.webp"
+    }
+  ]
+}
